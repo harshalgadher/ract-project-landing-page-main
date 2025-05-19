@@ -11,5 +11,5 @@ export const Heading = () => {
             <p>Design and launch your website fast & no coding knowledge is required.</p>
         </div>
     </div>
-  )
+ )
 }
