@@ -5,13 +5,13 @@ import FeatureCards from './components/FeatureCards'
 import { Heading } from './components/Heading'
 import { SwichingImg } from './components/SwichingImg'
 import { Heading2 } from './components/Heading2'
-import { WebsiteDesign } from './components/websiteDesign'
 import { Performance } from './components/Performance'
 import { People } from './components/People'
 import { Heading3 } from './components/Heading3'
 import { Listquestions } from './components/Listquestions'
 import { PurchaseBanner } from './components/PurchaseBanner'
 import Footer from './components/Footer'
+import WebsiteDesign from './components/websiteDesign'
 
 const App = () => {
   return (
@@ -25,8 +25,8 @@ const App = () => {
       <Heading />
       <SwichingImg />
       <Heading2 />
-      <WebsiteDesign />
       <Performance />
+      <WebsiteDesign />
       <People />
       <Heading3 />
       <Listquestions />

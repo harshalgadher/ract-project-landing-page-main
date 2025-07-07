@@ -1,5 +1,3 @@
-import React from 'react'
-
 const webImg = [
     { 
         headign: "110 Prebuilt Websites",
@@ -32,9 +30,8 @@ const webImg = [
         dis : "Avada is integrated with WooCommerce, allowing you to build successful online stores to sell anything online."
     }
 ]
-
-export const WebsiteDesign = () => {
-    return (
+const WebsiteDesign = () => {
+  return (
         <div className="container my-4 mb-5">
             <div className="row gy-3">
                 {webImg.map((image, index) => (
@@ -53,3 +50,5 @@ export const WebsiteDesign = () => {
         </div>
     )
 }
+
+export default WebsiteDesign

@@ -61,10 +61,10 @@ function Footer() {
                 </div>
                 <div>
                     <ul className="d-flex gap-2 row">
-                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i class="bi bi-facebook"></i></li>
-                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i class="bi bi-twitter-x"></i></li>
-                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i class="bi bi-instagram"></i></li>
-                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i class="bi bi-youtube"></i></li>
+                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i className="bi bi-facebook"></i></li>
+                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i className="bi bi-twitter-x"></i></li>
+                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i className="bi bi-instagram"></i></li>
+                        <li className="col-lg-2 col-md-4 bg-secondar icon-li"><i className="bi bi-youtube"></i></li>
                     </ul>
                 </div>
             </div>
